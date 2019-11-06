@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/stschwark
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://schwark.info
+  * I am stschwark (https://keybase.io/stschwark) on keybase.
+  * I have a public key ASCGNY3PNxNDWSp2WaNoedyzEq_NFJkE_hTPrDvtBifFgAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010152f31fbdb7acdb29b03c6684f4b0061932668f9bee7c4122e33c923d0143094b0a",
+      "host": "keybase.io",
+      "kid": "012086358dcf371343592a7659a36879dcb312afcd149904fe14cfac3bed0627c5800a",
+      "uid": "1cbbde18f983f333ab6d494fead26000",
+      "username": "stschwark"
+    },
+    "merkle_root": {
+      "ctime": 1573077056,
+      "hash": "c20a267238dd64357d37b10811f6d2ce5e5b481002cdf35527f55153ff145a3124033bf9f82b610fdbe2755252576f193a9bee35a0bb394838dd01aaf514eba6",
+      "hash_meta": "f090c0a0c162bfce43495fef9ce62ec8cec652646f47ccfaeb3f28d4a69eb1c1",
+      "seqno": 8852409
+    },
+    "service": {
+      "entropy": "1ilPf57NnhR2ZovzTj9/3Mz5",
+      "hostname": "schwark.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1573077077,
+  "expire_in": 504576000,
+  "prev": "7f5c36dd0ec766abbdcfccf6bc81cc1f3ad1a656a9c89243eecf7e989cea4b05",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghjWNzzcTQ1kqdlmjaHncsxKvzRSZBP4Uz6w77QYnxYAKp3BheWxvYWTESpcCEcQgf1w23Q7HZqu9z8z2vIHMHzrRplapyJJD7s9+mJzqSwXEIK5bQCqSjOUeUQQHqF3qVTD4Aho1qgVJ5phO70XHN/k2AgHCo3NpZ8RAOa85/ifUjaCinpK7ZFZxNwFp1qpIj1DPTobwswBg19k8FrvOITY2SMmaHkQhQCwlh3QlKvRnVBlgtjyfYL+gAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPN9qsMZ4pTr2TrpLvd9Eb89bhFPr428Mvfs+/yGlvbDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stschwark
+
+==================================================================
+
